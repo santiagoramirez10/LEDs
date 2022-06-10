@@ -1,0 +1,1 @@
+En este repositorio se muestran los diferentes métodos que existen para encender un LED con la placa Arduino y la ayuda de algunos sensores. 
